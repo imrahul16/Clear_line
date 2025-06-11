@@ -56,7 +56,7 @@ ClearLine is a privacy-focused Android application built in Kotlin that automati
 👨‍💻 Developer
 
 **Rahul Dutta**
-[LinkedIn]((https://www.linkedin.com/in/imrahul16/)) • [GitHub](https://github.com/imrahul16)
+[LinkedIn](https://www.linkedin.com/in/imrahul16/) • [GitHub](https://github.com/imrahul16)
 
 
 
